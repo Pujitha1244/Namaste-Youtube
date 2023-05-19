@@ -16,4 +16,8 @@ const VideoCard = ({info}) => {
   )
 }
 
+const fn = (VideoCard) =>{
+  return <VideoCard/>
+}
+
 export default VideoCard

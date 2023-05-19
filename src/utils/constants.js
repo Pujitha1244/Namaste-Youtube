@@ -5,7 +5,7 @@
 
 // export default YOUTUBE_VIDEOS_API
 
-const GOOGLE_API_KEY = "AIzaSyA0AMr-0j9V1YTnh05qeTMsznPqEVaGG3U"
+const GOOGLE_API_KEY = "AIzaSyDZ2qplMeaWhT5hDlvvimV0_LCaMw14jq0"
 
 export const YOUTUBE_VIDEOS_API =
   "https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&chart=mostPopular&maxResults=50&regionCode=IN&key=" + 
